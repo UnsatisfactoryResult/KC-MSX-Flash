@@ -10,7 +10,9 @@ Items Needed
 
 - A micro sd card formatted to fat32.
 
-- 2 CUI Devices TS02 OFF (ON) switches. If using my case, 10-12mm stem height is best. If you're not using a case, then the shortest height will do.
+- (Optional) 2 or 3 CUI Devices TS02 OFF (ON) switches. The 2 front facing buttons are for floppy disk switching for games with multiple disks. The rear facing button is a soft reset button. If your machine doesn't have a reset button, you can add this and have one. The flashcart does not need one for operation.
+
+If using my case, 10-12mm stem height is best. If you're not using a case, then the shortest height will do.
 
 - The KC MSX Flash PCB. This needs to be 1.6mm. For best reliability get it made with ENIG coating, gold fingers, and a beveled edge. A small batch will be available to order from my website.
 
@@ -32,3 +34,14 @@ Floppy Drive Emulation
 ======================
 
 I have had zero luck getting anything to work consistently on my machine. I have tested over 100 disk images, and have only gotten a handful to load unreliably. Using different disk drive roms has not helped. If you have better luck then me, reach out as I'd love to hear about your setup.
+
+SD Card Setup
+=============
+
+- Format card to FAT32
+- Create folder in the root of the card and name it MSX
+- Put menu.rom in the root of the card
+- Put disk.rom in the root of the card
+- Put game .rom and .dsk files in the MSX folder
+- Check the compatibility list to see if your games need to have their extensions changed.
+- Use a sorting program like Drive Sort to alphabetize your SD card. The software sorts the files by the order they were copied and does not have the ability to alphabetize itself.
