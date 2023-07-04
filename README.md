@@ -2,7 +2,6 @@ KC MSX Flash
 ============
 
 This project adapts Kernelcrash's msx-rom-and-floppy-emulator to a simple cartridge. For more info on the project see here: https://github.com/kernelcrash/msx-rom-and-floppy-emulator/
-===============
 
 Items Needed
 ============
@@ -28,7 +27,6 @@ The "Extension" column shows what file extension the rom needs to play. There is
 This is not an exhaustive list of every rom. Anything else is up to the user to test. 
 
 Also, just because these work on my machine doesn't mean they will all work with yours. If your unit has 64k ram and 128k vram, chances are the compatibility will be the same, but I make no guarantees.
-==================
 
 Floppy Drive Emulation
 ======================
