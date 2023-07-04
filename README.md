@@ -21,7 +21,7 @@ Compatibility List
 
 The compatibility list is based off the No-Intro romsets for MSX and MSX2. I tested them on my Panasonic FS-A1 MSX2 without any expansion carts. The list is pretty self explanatory, but green highlighted entries are compatible, red are not, yellow may have quirks.
 
-The "Extension" column shows what file extension the rom needs to play. There is no lookup table at the point, so the roms have to be manually given the proper extension for the software to use the correct mapper.
+The "Extension" column shows what file extension the rom needs to play. There is no lookup table at this point, so the roms have to be manually given the proper extension for the software to use the correct mapper.
 
 This is not an exhaustive list of every rom. Anything else is up to the user to test. 
 
