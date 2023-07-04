@@ -10,14 +10,11 @@ Items Needed
 
 - A micro sd card formatted to fat32.
 
-- (Optional) 2 or 3 CUI Devices TS02 OFF (ON) switches. The 2 front facing buttons are for floppy disk switching for games with multiple disks. The rear facing button is a soft reset button. If your machine doesn't have a reset button, you can add this and have one. The flashcart does not need one for operation.
-
-If using my case, 10-12mm stem height is best. If you're not using a case, then the shortest height will do.
+- (Optional) 2 or 3 CUI Devices TS02 OFF (ON) switches. The 2 front facing buttons are for floppy disk switching for games with multiple disks. The rear facing button is a soft reset button. If your machine doesn't have a reset button, you can add this and have one. The flashcart does not need one for operation. If using my case, 10-12mm stem height is best. If you're not using a case, then the shortest height will do.
 
 - The KC MSX Flash PCB. This needs to be 1.6mm. For best reliability get it made with ENIG coating, gold fingers, and a beveled edge. A small batch will be available to order from my website.
 
 - (Optional) The KC MSX Flash case. Print the .stl files with 100% infill for best rigidity. PLA is fine, PETG or ABS if you want to get fancy. The case snaps together securely holding the PCB in place without screws. The micro sd card is accessible from the right side without having to take the case apart.
-================
 
 Compatibility List
 ==================
