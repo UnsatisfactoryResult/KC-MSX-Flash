@@ -16,7 +16,7 @@ Items Needed
 
 - (Optional) The KC MSX Flash case. Print the .stl files with 100% infill for best rigidity. PLA is fine, PETG or ABS if you want to get fancy. The case snaps together securely holding the PCB in place without screws. The micro sd card is accessible from the right side without having to take the case apart.
 
-Compatibility List
+Compatibility List (Work In Progress)
 ==================
 
 The compatibility list is based off the No-Intro romsets for MSX and MSX2. I tested them on my Panasonic FS-A1 MSX2 without any expansion carts. The list is pretty self explanatory, but green highlighted entries are compatible, red are not, yellow may have quirks.
