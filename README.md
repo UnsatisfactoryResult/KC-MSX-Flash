@@ -42,3 +42,8 @@ SD Card Setup
 - Put game .rom and .dsk files in the MSX folder
 - Check the compatibility list to see if your games need to have their extensions changed.
 - Use a sorting program like Drive Sort to alphabetize your SD card. The software sorts the files by the order they were copied and does not have the ability to alphabetize itself.
+
+Batch Files
+===========
+
+I added a folder containing batch files that rename all rom files in a folder to a new extension with the REN command. Just place the corresponding batch file and rom files you wish to change in a folder, and double click the batch file.
