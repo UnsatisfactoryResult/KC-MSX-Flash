@@ -31,7 +31,7 @@ Before we go further, here are the totals excluding roms that are too big to wor
 - MSX2 Not Working - 39   (32.5%)
 - MSX2 Total -       120
 
-Some software has multiple versions, the main one, alt 1, alt 2, etc. Sometimes not all versions worked or didn't work. I marked very clearly which ones did and didn't. I'm not sure if these are bad dumps or what, retesting other versions of games that failed originally, I was able to add about a dozenmore to the working list.
+Some software has multiple versions, the main one, alt 1, alt 2, etc. Sometimes not all versions worked or didn't work. I marked very clearly which ones did and didn't. I'm not sure if these are bad dumps or what. By retesting other versions of games that failed originally, I was able to add about a dozen more to the working list.
 
 The "Extension" column shows what file extension the rom needs to play. There is no lookup table at this point, so the roms have to be manually given the proper extension for the software to use the correct mapper.
 
