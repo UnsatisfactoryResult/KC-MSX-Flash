@@ -21,9 +21,9 @@ Flashing the ST32F407
 
 After compiling Kernel's firmware it needs to be flashed to the board. There are many ways to do this, on Linux you can use dfu-util, on Windows you can use the Cube Programmer, etc. 
 
-I use dfu-util on Linux since no special equipment is needed. In order to do the same you need to jump Boot0 to 3.3v. These are located right next to the USB port. If your device is still not being detected, dfu-util -l shows nothing, press and release the reset button.
+I use dfu-util on Linux since no special equipment is needed. In order to do the same you need to jump Boot0 to 3.3v. These are located right next to the USB port. Also ground Boot1, which is next to the micro sd slot. If your device is still not being detected, dfu-util -l shows nothing, press and release the reset button.
 
-If it's still not being detected, solder a 1k or so pull down resistor between PA10 and ground. There's a handy ground point right next to the USB connector. Try again, you may need to hit that reset button again as well. Hopefully this should kick it into bootloader mode properly. remove the pull down resistor and the Boot0 jumper after flashing.
+If it's still not being detected, solder a 1k or so pull down resistor between PA10 and ground. There's a handy ground point right next to the USB connector. Try again, you may need to hit that reset button again as well. Hopefully this should kick it into bootloader mode properly. remove the pull down resistor and the jumpers after flashing.
 
 Compatibility List (Finished)
 ==================
